@@ -10,4 +10,4 @@ To organise and conduct regular training and free space for young innovatories i
 To be model institution and resource center of excellenance in technology and open source reasearch and Develop an ICT and youth led skills enhanced Social Network Space (SNS) for effective peace education mobilization and empowerment of youth in south Sudanese refugee settlements and host communities.
 
 # Goal
-To promote an epping, skilling refugee youth with technology
+To promote an epping, skilling host and refugee youth with technology
